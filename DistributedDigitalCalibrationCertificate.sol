@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-// Érico Vieira Porto - 2019
+// Érico Vieira Porto - 2020
 //
 // Distributed Digital Calibration Certificate
 
