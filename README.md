@@ -49,31 +49,31 @@ for defined periodic calibration due to legal requirements or security requireme
 A simple system to manage the permissions of laboratory personel is also implemented.
 
 [1]:https://web.archive.org/web/20190618204442/https://www.iso.org/ISO-IEC-17025-testing-and-calibration-laboratories.html
-[1] https://web.archive.org/web/20190618204442/https://www.iso.org/ISO-IEC-17025-testing-and-calibration-laboratories.html
+[1] [www.iso.org/ISO-IEC-17025-testing-and-calibration-laboratories.html][1]
 
 [2]:https://web.archive.org/web/20190503113315/https://www.ptb.de/cms/en/ptb/ptb-management/pstab/pst2/pst2qualitaetsmanagementsystem.html
-[2] https://web.archive.org/web/20190503113315/https://www.ptb.de/cms/en/ptb/ptb-management/pstab/pst2/pst2qualitaetsmanagementsystem.html
+[2] [www.ptb.de/cms/en/ptb/ptb-management/pstab/pst2/pst2qualitaetsmanagementsystem.html][2]
 
 [3]:https://web.archive.org/web/20191211014257/http://www4.inmetro.gov.br/acreditacao/servicos/acreditacao
-[3] https://web.archive.org/web/20191211014257/http://www4.inmetro.gov.br/acreditacao/servicos/acreditacao
+[3] [www4.inmetro.gov.br/acreditacao/servicos/acreditacao][3]
 
 [4]:https://web.archive.org/web/20191206053325/https://www.nist.gov/nist-quality-system
-[4] https://web.archive.org/web/20191206053325/https://www.nist.gov/nist-quality-system
+[4] [www.nist.gov/nist-quality-system][4]
 
 [5]:https://web.archive.org/web/20190524204206/http://www.iso.org/sites/JCGM/GUM-introduction.htm
-[5] https://web.archive.org/web/20190524204206/http://www.iso.org/sites/JCGM/GUM-introduction.htm
+[5] [www.iso.org/sites/JCGM/GUM-introduction.htm][5]
 
 [6]:https://web.archive.org/web/20170330030916/http://www.inmetro.gov.br/metcientifica/vim/vimGum.asp
-[6] https://web.archive.org/web/20170330030916/http://www.inmetro.gov.br/metcientifica/vim/vimGum.asp
+[6] [www.inmetro.gov.br/metcientifica/vim/vimGum.asp][6]
 
 [7]:https://web.archive.org/web/20191211014509/https://us.flukecal.com/literature/articles-and-education/electrical-calibration/white-paper/proposal-standard-calibration-d
-[7] https://web.archive.org/web/20191211014509/https://us.flukecal.com/literature/articles-and-education/electrical-calibration/white-paper/proposal-standard-calibration-d
+[7] [us.flukecal.com/literature/articles-and-education/electrical-calibration/white-paper/proposal-standard-calibration-d][7]
 
 [8]:https://web.archive.org/web/20191211015214/https://cfmetrologie.edpsciences.org/articles/metrology/pdf/2019/01/metrology_cim2019_01002.pdf
-[8] https://web.archive.org/web/20191211015214/https://cfmetrologie.edpsciences.org/articles/metrology/pdf/2019/01/metrology_cim2019_01002.pdf
+[8] [cfmetrologie.edpsciences.org/articles/metrology/pdf/2019/01/metrology_cim2019_01002.pdf][8]
 
 [9]:https://web.archive.org/web/20191211015141/https://www.researchgate.net/publication/328892483_Calibration_for_Industry_40_Metrology_Touchless_Calibration
-[9] https://web.archive.org/web/20191211015141/https://www.researchgate.net/publication/328892483_Calibration_for_Industry_40_Metrology_Touchless_Calibration
+[9] [www.researchgate.net/publication/328892483_Calibration_for_Industry_40_Metrology_Touchless_Calibration][9]
 
 
 
